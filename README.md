@@ -52,5 +52,5 @@ d) Business Impact & Insights
 "Product attribute patterns": Balanced demand between "Low Fat vs. Regular" categories supports targeted marketing.  
 
 # Screenshot
-link![Blinkit Sales Dashboard](assets/blinkit_sales_snapshot.png)
+link![[Blinkit Sales Dashboard](https://github.com/golukumar63/Blinkit-Sales-Dashboard-/blob/main/Blinkit%20Sales%20Snapshort%20.png)
 
