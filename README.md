@@ -51,6 +51,6 @@ d) Business Impact & Insights
 "Outlet maturity analysis": Recently established outlets show growth spurts, highlighting expansion opportunities.  
 "Product attribute patterns": Balanced demand between "Low Fat vs. Regular" categories supports targeted marketing.  
 
-# Screenshot
+# Blinkit Sales Snapshort 
 link![[Blinkit Sales Dashboard](https://github.com/golukumar63/Blinkit-Sales-Dashboard-/blob/main/Blinkit%20Sales%20Snapshort%20.png)
 
